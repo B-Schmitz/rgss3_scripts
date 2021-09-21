@@ -1,1 +1,1 @@
-# rgss3_scripts
+Alguns scripts que estou criando para um projeto de jogo.
