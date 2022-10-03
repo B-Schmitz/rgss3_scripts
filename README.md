@@ -1,1 +1,1 @@
-Alguns scripts que estou criando para um projeto de jogo.
+Scripts para RPGMaker VX Ace
